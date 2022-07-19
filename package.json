@@ -1,0 +1,26 @@
+{
+  "name": "wibj-css",
+  "version": "1.0.0",
+  "description": "Additional style sheet for WIBJ website",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "sass index.scss index.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosskie/wibj-css.git"
+  },
+  "keywords": [
+    "sass"
+  ],
+  "author": "Rosskielf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rosskie/wibj-css/issues"
+  },
+  "homepage": "https://github.com/rosskie/wibj-css#readme",
+  "dependencies": {
+    "sass": "^1.53.0"
+  }
+}
