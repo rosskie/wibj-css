@@ -1,0 +1,11 @@
+@charset "utf-8";
+// ==========================================================================
+// foundation
+// ==========================================================================
+
+// use normalize to reset the default styles - we'll use this when we want to ignore all default WP styles
+// @use "foundation/normalize";
+
+@import "foundation/color";
+
+@import "object/component/text";
